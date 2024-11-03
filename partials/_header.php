@@ -34,7 +34,7 @@
                 <button class="btn btn-success" type="submit">Search</button>
             </form>
             <button class="btn btn-outline-success ml-2 ms-2" data-bs-toggle="modal" data-bs-target="#loginModal">LogIn</button>
-            <button class="btn btn-outline-success ms-2 ms-2" data-bs-toggle="modal" data-bs-target="#signupModal">Singup</button>
+            <button class="btn btn-outline-success ms-2 ms-2" data-bs-toggle="modal" data-bs-target="#signupModal">Singu-p</button>
             </div>
         </div>
     </div>
